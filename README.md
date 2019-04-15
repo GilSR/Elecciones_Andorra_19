@@ -10,3 +10,12 @@ La pràctica ha estat realitzada de forma individual per Gil Santolària Rossell
 Els scripts s'han d'executar en el ordre següent: 
 
 Començar pel document "Scraping_1.py", seguir amb "Scraping_2.py" i finalment executar "Scraping_3". Així formarem correctament el arxiu "csv".
+
+# Arxius de la pràctica:
+Scraping_1.py: Conté el codi que permet fer el scraping web de la pàgina web "www.altaveudigital.com"
+
+Scraping_2.py: Conté el codi que permet fer el scraping web de la pàgina web "www.forum.ad"
+
+Scraping_4.py: Conté el codi que permet fer el scraping web de la pàgina web "www.ara.ad"
+
+Data.csv: conté la informació extreta de les pàgines web.
